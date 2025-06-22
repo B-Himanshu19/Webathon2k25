@@ -6,9 +6,7 @@
 ## 📌 Overview
 **Webathon2k25** is a smart E-Commerce platform that features **dynamic pricing**, real-time competitor tracking, **AI-powered price adjustment**, secure **Razorpay payments**, and an analytics dashboard to maximize revenue and user engagement.
 
-> 🚀 **Key Value:** Combines backend pricing logic, payment gateway integration, anomaly detection, and microservices — highly relevant for fintech and high-concurrency systems like Juspay.
 
----
 
 ## ⚙️ Tech Stack
 
